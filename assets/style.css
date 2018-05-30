@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#nav {
+  height: 50px;
+  width: 100%;
+  background: #000;
+  background-attachment: fixed;
+}
+
+#box1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("img/needle.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+#box2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("img/rain.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+#box3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("img/pike.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+#box4 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("img/wheel.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+#box5 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("img/sunset.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+#box6 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("img/calm.jpg");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+h1 {
+  font-family: arial black;
+  font-size: 50px;
+  color: #fff;
+  margin: 0px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+h2 {
+  font-family: arial black;
+  font-size: 25px;
+  color: #fff;
+  text-align: center;
+  margin: 0px;
+}
+a {
+  color: #fff;
+}
